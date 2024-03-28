@@ -1,0 +1,4 @@
+repository "YGDProject@Kangeroo_Gaming@cloud"
+  path "/"
+    br "/main"
+    co "/main"
